@@ -1,0 +1,20 @@
+:root{
+    --primary: #3e3b3b;
+    --secundary: #71696a;
+    --blanco: #fff;
+}
+
+body{
+    margin: 0;
+    padding: 0;
+    background-color: var(--primary);
+}
+
+.fondo{
+    width: 127rem;
+    padding: 2rem;
+    background-color: var(--blanco);
+    border: 0.1rem solid var(--secundary);
+    border-radius: 0.5rem;
+    margin-top: 2.5rem;
+}
